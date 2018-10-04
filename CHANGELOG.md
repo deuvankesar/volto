@@ -1,5 +1,11 @@
 # Change Log
 
+## 0.9.0 (unreleased)
+
+### Changes
+
+- Conditionally import locales so you can extend volto without needing to provide any @vangheem
+
 ## 0.9.0 (2018-08-04)
 
 ### Changes
